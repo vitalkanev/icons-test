@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+	<!-- This SVG is 100% written manually, by-hand (and gimp, too!) -->
+	<title>Pencil</title> <!-- #A11Y -->
+	<path style="fill: #ffdd33;" d="M16,240 80,240 240,80 176,16 16,176z" />
+	<path style="fill: #ffcc66;" d="M16,240 80,240 96,224 32,160 16,176z" />
+</svg>
