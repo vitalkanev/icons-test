@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="16" height="16">
+	<!-- This SVG is 100% written manually, by-hand (and gimp, too!) -->
+	<title>"Add" button</title> <!-- #A11Y -->
+	<circle cx="128" cy="128" r="112" style="fill: #00b200;" id="bg" />
+	<polygon style="fill: #ffffff;" points="112 80 144 80 144 112 176 112 176 144 144 144 144 176 112 176 112 144 80 144 80 112 112 112" />
+</svg>
